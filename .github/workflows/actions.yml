@@ -1,6 +1,8 @@
-name: Manual Book Scraping
+name: Automated Book Scraping at 18:00
 
 on:
+  schedule:
+    - cron: '0 17 * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
