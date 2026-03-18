@@ -24,7 +24,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run scraping script
-      run: python cw1_scraping/scraping.py
+      run: python scraper.py
 
     - name: Commit and Push changes
       run: |
