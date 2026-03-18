@@ -15,7 +15,7 @@ path_to_save_data = (
 print(path_to_save_data)
 
 
-for i in range(1, 5):
+for i in range(1, 10):
     url = f"https://books.toscrape.com/catalogue/page-{i}.html"
 
     try:
