@@ -1,181 +1,181 @@
 ,title,price,rating,category,insert_date
-0,A Light in the Attic,51.77,3,Poetry,2026-04-25 17:35:58.017436
-1,Tipping the Velvet,53.74,1,Historical Fiction,2026-04-25 17:35:58.732314
-2,Soumission,50.10,1,Fiction,2026-04-25 17:35:59.033481
-3,Sharp Objects,47.82,4,Mystery,2026-04-25 17:35:59.343949
-4,Sapiens: A Brief History of Humankind,54.23,5,History,2026-04-25 17:35:59.735369
-5,The Requiem Red,22.65,1,Young Adult,2026-04-25 17:36:00.110420
-6,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,Business,2026-04-25 17:36:00.476822
-7,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,Default,2026-04-25 17:36:00.895373
-8,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.60,4,Default,2026-04-25 17:36:01.239806
-9,The Black Maria,52.15,1,Poetry,2026-04-25 17:36:01.545900
-10,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,Default,2026-04-25 17:36:01.834681
-11,Shakespeare's Sonnets,20.66,4,Poetry,2026-04-25 17:36:02.125078
-12,Set Me Free,17.46,5,Young Adult,2026-04-25 17:36:02.445456
-13,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,Sequential Art,2026-04-25 17:36:02.734847
-14,Rip it Up and Start Again,35.02,5,Music,2026-04-25 17:36:03.043187
-15,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,Music,2026-04-25 17:36:03.331387
-16,Olio,23.88,1,Poetry,2026-04-25 17:36:03.718142
-17,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,Science Fiction,2026-04-25 17:36:04.015072
-18,Libertarianism for Beginners,51.33,2,Politics,2026-04-25 17:36:04.301516
-19,It's Only the Himalayas,45.17,2,Travel,2026-04-25 17:36:04.611615
-20,In Her Wake,12.84,1,Thriller,2026-04-25 17:36:05.009807
-21,How Music Works,37.32,2,Music,2026-04-25 17:36:05.325451
-22,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,3,Food and Drink,2026-04-25 17:36:05.637994
-23,Chase Me (Paris Nights #2),25.27,5,Romance,2026-04-25 17:36:05.926483
-24,Black Dust,34.53,5,Romance,2026-04-25 17:36:06.213523
-25,Birdsong: A Story in Pictures,54.64,3,Childrens,2026-04-25 17:36:06.499905
-26,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.50,3,Default,2026-04-25 17:36:06.806723
-27,Aladdin and His Wonderful Lamp,53.13,3,Default,2026-04-25 17:36:07.095604
-28,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,40.30,5,Nonfiction,2026-04-25 17:36:07.389999
-29,Wall and Piece,44.18,4,Art,2026-04-25 17:36:07.694498
-30,The Four Agreements: A Practical Guide to Personal Freedom,17.66,5,Spirituality,2026-04-25 17:36:07.994246
-31,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,3,Nonfiction,2026-04-25 17:36:08.364595
-32,The Elephant Tree,23.82,5,Thriller,2026-04-25 17:36:08.649770
-33,The Bear and the Piano,36.89,1,Childrens,2026-04-25 17:36:08.939002
-34,Sophie's World,15.94,5,Philosophy,2026-04-25 17:36:09.233202
-35,Penny Maybe,33.29,3,Default,2026-04-25 17:36:09.568192
-36,Maude (1883-1993):She Grew Up with the country,18.02,2,Default,2026-04-25 17:36:09.871021
-37,"In a Dark, Dark Wood",19.63,1,Mystery,2026-04-25 17:36:10.157752
-38,Behind Closed Doors,52.22,4,Thriller,2026-04-25 17:36:10.449740
-39,You can't bury them all: Poems,33.63,2,Poetry,2026-04-25 17:36:10.737606
-40,Slow States of Collapse: Poems,57.31,3,Poetry,2026-04-25 17:36:11.161952
-41,Reasons to Stay Alive,26.41,2,Nonfiction,2026-04-25 17:36:11.450161
-42,Private Paris (Private #10),47.61,5,Fiction,2026-04-25 17:36:11.741451
-43,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,5,Nonfiction,2026-04-25 17:36:12.031176
-44,Without Borders (Wanderlove #1),45.07,2,New Adult,2026-04-25 17:36:12.321784
-45,When We Collided,31.77,1,Contemporary,2026-04-25 17:36:12.612283
-46,"We Love You, Charlie Freeman",50.27,5,Fiction,2026-04-25 17:36:12.901879
-47,Untitled Collection: Sabbath Poems 2014,14.27,4,Poetry,2026-04-25 17:36:13.190736
-48,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,4,Nonfiction,2026-04-25 17:36:13.480706
-49,Unicorn Tracks,18.78,3,Fantasy,2026-04-25 17:36:13.770452
-50,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,1,History,2026-04-25 17:36:14.058682
-51,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,1,Sequential Art,2026-04-25 17:36:14.346884
-52,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,3,Nonfiction,2026-04-25 17:36:14.636334
-53,This One Summer,19.49,4,Sequential Art,2026-04-25 17:36:14.921916
-54,Thirst,17.27,5,Fiction,2026-04-25 17:36:15.220600
-55,The Torch Is Passed: A Harding Family Story,19.09,1,Add a comment,2026-04-25 17:36:15.510724
-56,The Secret of Dreadwillow Carse,56.13,1,Childrens,2026-04-25 17:36:15.805991
-57,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,1,Food and Drink,2026-04-25 17:36:16.094790
-58,The Past Never Ends,56.50,4,Mystery,2026-04-25 17:36:16.382848
-59,The Natural History of Us (The Fine Art of Pretending #2),45.22,3,Young Adult,2026-04-25 17:36:16.839659
-60,The Nameless City (The Nameless City #1),38.16,4,Sequential Art,2026-04-25 17:36:17.239706
-61,The Murder That Never Was (Forensic Instincts #5),54.11,3,Fiction,2026-04-25 17:36:17.527272
-62,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,4,Science,2026-04-25 17:36:17.823011
-63,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,4,Add a comment,2026-04-25 17:36:18.169861
-64,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,3,Nonfiction,2026-04-25 17:36:18.467028
-65,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,5,Default,2026-04-25 17:36:18.759236
-66,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,1,Nonfiction,2026-04-25 17:36:19.051184
-67,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,1,Nonfiction,2026-04-25 17:36:19.370688
-68,The Death of Humanity: and the Case for Life,58.11,4,Philosophy,2026-04-25 17:36:19.661726
-69,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,3,Health,2026-04-25 17:36:19.958568
-70,The Art Forger,40.76,3,Add a comment,2026-04-25 17:36:20.246502
-71,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,1,History,2026-04-25 17:36:20.575834
-72,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,5,Spirituality,2026-04-25 17:36:20.862588
-73,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,4,Nonfiction,2026-04-25 17:36:21.152312
-74,Soul Reader,39.58,2,Default,2026-04-25 17:36:21.442339
-75,Security,39.25,2,Horror,2026-04-25 17:36:21.729436
-76,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,3,Fantasy,2026-04-25 17:36:22.017933
-77,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,2,Sequential Art,2026-04-25 17:36:22.364745
-78,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,2,Nonfiction,2026-04-25 17:36:22.652743
-79,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.40,3,Sequential Art,2026-04-25 17:36:22.941816
-80,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,5,Sequential Art,2026-04-25 17:36:23.355683
-81,Princess Between Worlds (Wide-Awake Princess #5),13.34,5,Fantasy,2026-04-25 17:36:23.642726
-82,"Pop Gun War, Volume 1: Gift",18.97,1,Sequential Art,2026-04-25 17:36:23.936576
-83,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,2,History,2026-04-25 17:36:24.224882
-84,Patience,10.16,3,Sequential Art,2026-04-25 17:36:24.517843
-85,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,4,Sequential Art,2026-04-25 17:36:24.806895
-86,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,1,Sequential Art,2026-04-25 17:36:25.096747
-87,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,1,Self Help,2026-04-25 17:36:25.384532
-88,On a Midnight Clear,14.07,3,Add a comment,2026-04-25 17:36:25.673067
-89,Obsidian (Lux #1),14.86,2,Young Adult,2026-04-25 17:36:25.962306
-90,My Paris Kitchen: Recipes and Stories,33.37,2,Food and Drink,2026-04-25 17:36:26.662722
-91,Masks and Shadows,56.40,2,Fantasy,2026-04-25 17:36:26.953789
-92,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,4,Food and Drink,2026-04-25 17:36:27.240311
-93,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,2,Sequential Art,2026-04-25 17:36:27.527565
-94,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,3,Sequential Art,2026-04-25 17:36:27.817085
-95,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,2,Sequential Art,2026-04-25 17:36:28.104763
-96,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,1,Food and Drink,2026-04-25 17:36:28.392990
-97,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.90,2,Add a comment,2026-04-25 17:36:28.682682
-98,Join,35.67,5,Science Fiction,2026-04-25 17:36:28.972517
-99,In the Country We Love: My Family Divided,22.00,4,Nonfiction,2026-04-25 17:36:29.261690
-100,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,5,Science,2026-04-25 17:36:29.669219
-101,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,2,Sequential Art,2026-04-25 17:36:29.957716
-102,I am a Hero Omnibus Volume 1,54.63,3,Sequential Art,2026-04-25 17:36:30.250049
-103,How to Be Miserable: 40 Strategies You Already Use,46.03,1,Self Help,2026-04-25 17:36:30.539063
-104,Her Backup Boyfriend (The Sorensen Family #1),33.97,1,Romance,2026-04-25 17:36:30.826381
-105,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,2,Sequential Art,2026-04-25 17:36:31.115509
-106,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,3,Historical Fiction,2026-04-25 17:36:31.405101
-107,First and First (Five Boroughs #3),15.97,4,Romance,2026-04-25 17:36:31.706426
-108,Fifty Shades Darker (Fifty Shades #2),21.96,1,Romance,2026-04-25 17:36:31.993692
-109,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,2,Nonfiction,2026-04-25 17:36:32.284532
-110,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,2,Religion,2026-04-25 17:36:32.584988
-111,Danganronpa Volume 1,51.99,4,Sequential Art,2026-04-25 17:36:32.906039
-112,Crown of Midnight (Throne of Glass #2),43.29,3,Fantasy,2026-04-25 17:36:33.195236
-113,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,4,Sequential Art,2026-04-25 17:36:33.482279
-114,Camp Midnight,17.08,4,Sequential Art,2026-04-25 17:36:33.770031
-115,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,5,Nonfiction,2026-04-25 17:36:34.067951
-116,Burning,28.81,3,Young Adult,2026-04-25 17:36:34.357905
-117,Bossypants,49.46,2,Default,2026-04-25 17:36:34.644414
-118,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,2,Sequential Art,2026-04-25 17:36:34.931360
-119,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,2,Fantasy,2026-04-25 17:36:35.217511
-120,Algorithms to Live By: The Computer Science of Human Decisions,30.81,1,Nonfiction,2026-04-25 17:36:35.620065
-121,A World of Flavor: Your Gluten Free Passport,42.95,1,Default,2026-04-25 17:36:35.911285
-122,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,5,Default,2026-04-25 17:36:36.200738
-123,A Murder in Time,16.64,1,Mystery,2026-04-25 17:36:36.490631
-124,A Flight of Arrows (The Pathfinders #2),55.53,5,Historical Fiction,2026-04-25 17:36:36.793734
-125,A Fierce and Subtle Poison,28.13,4,Young Adult,2026-04-25 17:36:37.085516
-126,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,1,Fantasy,2026-04-25 17:36:37.374292
-127,(Un)Qualified: How God Uses Broken People to Do Big Things,54.00,5,Christian,2026-04-25 17:36:37.660524
-128,You Are What You Love: The Spiritual Power of Habit,21.87,4,Religion,2026-04-25 17:36:37.950836
-129,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.30,4,Science Fiction,2026-04-25 17:36:38.241645
-130,Tuesday Nights in 1980,21.04,2,Fiction,2026-04-25 17:36:38.531055
-131,Tracing Numbers on a Train,41.60,3,Default,2026-04-25 17:36:38.829377
-132,Throne of Glass (Throne of Glass #1),35.07,3,Fantasy,2026-04-25 17:36:39.119516
-133,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,1,History,2026-04-25 17:36:39.410699
-134,Thirteen Reasons Why,52.72,1,Default,2026-04-25 17:36:39.701385
-135,The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,58.08,4,Childrens,2026-04-25 17:36:39.990221
-136,The Wedding Dress,24.12,1,Romance,2026-04-25 17:36:40.280347
-137,The Vacationers,42.15,4,Fiction,2026-04-25 17:36:40.571741
-138,The Third Wave: An Entrepreneurâs Vision of the Future,12.61,5,Business,2026-04-25 17:36:40.862666
-139,The Stranger,17.44,4,Philosophy,2026-04-25 17:36:41.151564
-140,The Shadow Hero (The Shadow Hero),33.14,1,Sequential Art,2026-04-25 17:36:41.554547
-141,The Secret (The Secret #1),27.37,4,Default,2026-04-25 17:36:41.842100
-142,The Regional Office Is Under Attack!,51.36,5,Fiction,2026-04-25 17:36:42.144551
-143,The Psychopath Test: A Journey Through the Madness Industry,36.00,2,Default,2026-04-25 17:36:42.432015
-144,The Project,10.65,1,Science Fiction,2026-04-25 17:36:42.722807
-145,The Power of Now: A Guide to Spiritual Enlightenment,43.54,2,Nonfiction,2026-04-25 17:36:43.013469
-146,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,2,Nonfiction,2026-04-25 17:36:43.300744
-147,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,5,Food and Drink,2026-04-25 17:36:43.590937
-148,The Murder of Roger Ackroyd (Hercule Poirot #4),44.10,4,Mystery,2026-04-25 17:36:43.886400
-149,The Mistake (Off-Campus #2),43.29,3,New Adult,2026-04-25 17:36:44.172391
-150,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,1,New Adult,2026-04-25 17:36:44.459934
-151,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.60,2,Food and Drink,2026-04-25 17:36:44.748453
-152,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,1,Crime,2026-04-25 17:36:45.036692
-153,The Kite Runner,41.82,4,Default,2026-04-25 17:36:45.324206
-154,The House by the Lake,36.95,1,Historical Fiction,2026-04-25 17:36:45.611349
-155,The Glittering Court (The Glittering Court #1),44.28,1,Fantasy,2026-04-25 17:36:45.902646
-156,The Girl on the Train,55.02,2,Default,2026-04-25 17:36:46.222782
-157,The Genius of Birds,17.24,1,Nonfiction,2026-04-25 17:36:46.512634
-158,The Emerald Mystery,23.15,2,Default,2026-04-25 17:36:46.813659
-159,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,1,Food and Drink,2026-04-25 17:36:47.102277
-160,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.00,3,Default,2026-04-25 17:36:47.498891
-161,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,5,Nonfiction,2026-04-25 17:36:47.787456
-162,The Art of War,33.34,5,Default,2026-04-25 17:36:48.076668
-163,The Argonauts,10.93,2,Autobiography,2026-04-25 17:36:48.366114
-164,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,3,Business,2026-04-25 17:36:48.654511
-165,Suddenly in Love (Lake Haven #1),55.99,2,Romance,2026-04-25 17:36:48.945592
-166,Something More Than This,16.24,4,Romance,2026-04-25 17:36:49.249352
-167,Soft Apocalypse,26.12,2,Science Fiction,2026-04-25 17:36:49.544357
-168,So You've Been Publicly Shamed,12.23,2,Nonfiction,2026-04-25 17:36:49.831807
-169,Shoe Dog: A Memoir by the Creator of NIKE,23.99,2,Business,2026-04-25 17:36:50.120003
-170,"Shobu Samurai, Project Aryoku (#3)",29.06,3,Add a comment,2026-04-25 17:36:50.414748
-171,Secrets and Lace (Fatal Hearts #1),20.27,1,Default,2026-04-25 17:36:50.711188
-172,Scarlett Epstein Hates It Here,43.55,5,Young Adult,2026-04-25 17:36:50.999388
-173,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,1,Default,2026-04-25 17:36:51.286842
-174,Redeeming Love,20.47,5,Christian Fiction,2026-04-25 17:36:51.572282
-175,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,1,Default,2026-04-25 17:36:51.861807
-176,Poems That Make Grown Women Cry,14.19,4,Poetry,2026-04-25 17:36:52.151908
-177,"Nightingale, Sing",38.28,1,Young Adult,2026-04-25 17:36:52.447171
-178,Night Sky with Exit Wounds,41.05,1,Poetry,2026-04-25 17:36:52.736005
-179,Mrs. Houdini,30.25,5,Historical Fiction,2026-04-25 17:36:53.022092
+0,A Light in the Attic,51.77,3,Poetry,2026-04-26 17:36:30.330509
+1,Tipping the Velvet,53.74,1,Historical Fiction,2026-04-26 17:36:31.592363
+2,Soumission,50.10,1,Fiction,2026-04-26 17:36:32.151161
+3,Sharp Objects,47.82,4,Mystery,2026-04-26 17:36:32.655994
+4,Sapiens: A Brief History of Humankind,54.23,5,History,2026-04-26 17:36:33.173854
+5,The Requiem Red,22.65,1,Young Adult,2026-04-26 17:36:33.689551
+6,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,Business,2026-04-26 17:36:34.192764
+7,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,Default,2026-04-26 17:36:34.732651
+8,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.60,4,Default,2026-04-26 17:36:35.548844
+9,The Black Maria,52.15,1,Poetry,2026-04-26 17:36:36.050469
+10,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,Default,2026-04-26 17:36:36.776049
+11,Shakespeare's Sonnets,20.66,4,Poetry,2026-04-26 17:36:37.297228
+12,Set Me Free,17.46,5,Young Adult,2026-04-26 17:36:37.815718
+13,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,Sequential Art,2026-04-26 17:36:38.319276
+14,Rip it Up and Start Again,35.02,5,Music,2026-04-26 17:36:38.836772
+15,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,Music,2026-04-26 17:36:39.346055
+16,Olio,23.88,1,Poetry,2026-04-26 17:36:40.371690
+17,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,Science Fiction,2026-04-26 17:36:40.888013
+18,Libertarianism for Beginners,51.33,2,Politics,2026-04-26 17:36:41.389799
+19,It's Only the Himalayas,45.17,2,Travel,2026-04-26 17:36:41.893304
+20,In Her Wake,12.84,1,Thriller,2026-04-26 17:36:42.809279
+21,How Music Works,37.32,2,Music,2026-04-26 17:36:43.339950
+22,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,3,Food and Drink,2026-04-26 17:36:43.887678
+23,Chase Me (Paris Nights #2),25.27,5,Romance,2026-04-26 17:36:44.407528
+24,Black Dust,34.53,5,Romance,2026-04-26 17:36:44.910697
+25,Birdsong: A Story in Pictures,54.64,3,Childrens,2026-04-26 17:36:45.427908
+26,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.50,3,Default,2026-04-26 17:36:45.909210
+27,Aladdin and His Wonderful Lamp,53.13,3,Default,2026-04-26 17:36:46.419489
+28,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,40.30,5,Nonfiction,2026-04-26 17:36:46.921835
+29,Wall and Piece,44.18,4,Art,2026-04-26 17:36:47.439529
+30,The Four Agreements: A Practical Guide to Personal Freedom,17.66,5,Spirituality,2026-04-26 17:36:47.941980
+31,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,3,Nonfiction,2026-04-26 17:36:48.443316
+32,The Elephant Tree,23.82,5,Thriller,2026-04-26 17:36:48.981022
+33,The Bear and the Piano,36.89,1,Childrens,2026-04-26 17:36:49.484222
+34,Sophie's World,15.94,5,Philosophy,2026-04-26 17:36:50.011844
+35,Penny Maybe,33.29,3,Default,2026-04-26 17:36:50.533656
+36,Maude (1883-1993):She Grew Up with the country,18.02,2,Default,2026-04-26 17:36:51.054747
+37,"In a Dark, Dark Wood",19.63,1,Mystery,2026-04-26 17:36:51.557944
+38,Behind Closed Doors,52.22,4,Thriller,2026-04-26 17:36:52.075907
+39,You can't bury them all: Poems,33.63,2,Poetry,2026-04-26 17:36:52.560463
+40,Slow States of Collapse: Poems,57.31,3,Poetry,2026-04-26 17:36:53.456669
+41,Reasons to Stay Alive,26.41,2,Nonfiction,2026-04-26 17:36:54.134983
+42,Private Paris (Private #10),47.61,5,Fiction,2026-04-26 17:36:54.640795
+43,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,5,Nonfiction,2026-04-26 17:36:55.142384
+44,Without Borders (Wanderlove #1),45.07,2,New Adult,2026-04-26 17:36:55.668650
+45,When We Collided,31.77,1,Contemporary,2026-04-26 17:36:56.172243
+46,"We Love You, Charlie Freeman",50.27,5,Fiction,2026-04-26 17:36:56.700277
+47,Untitled Collection: Sabbath Poems 2014,14.27,4,Poetry,2026-04-26 17:36:57.224234
+48,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,4,Nonfiction,2026-04-26 17:36:57.744599
+49,Unicorn Tracks,18.78,3,Fantasy,2026-04-26 17:36:58.248533
+50,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,1,History,2026-04-26 17:36:58.766439
+51,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,1,Sequential Art,2026-04-26 17:36:59.297386
+52,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,3,Nonfiction,2026-04-26 17:36:59.779862
+53,This One Summer,19.49,4,Sequential Art,2026-04-26 17:37:00.283457
+54,Thirst,17.27,5,Fiction,2026-04-26 17:37:00.799785
+55,The Torch Is Passed: A Harding Family Story,19.09,1,Add a comment,2026-04-26 17:37:01.303741
+56,The Secret of Dreadwillow Carse,56.13,1,Childrens,2026-04-26 17:37:01.805694
+57,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,1,Food and Drink,2026-04-26 17:37:02.332340
+58,The Past Never Ends,56.50,4,Mystery,2026-04-26 17:37:02.834925
+59,The Natural History of Us (The Fine Art of Pretending #2),45.22,3,Young Adult,2026-04-26 17:37:03.363066
+60,The Nameless City (The Nameless City #1),38.16,4,Sequential Art,2026-04-26 17:37:04.285054
+61,The Murder That Never Was (Forensic Instincts #5),54.11,3,Fiction,2026-04-26 17:37:04.791301
+62,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,4,Science,2026-04-26 17:37:05.311637
+63,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,4,Add a comment,2026-04-26 17:37:05.839224
+64,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,3,Nonfiction,2026-04-26 17:37:06.346065
+65,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,5,Default,2026-04-26 17:37:06.849111
+66,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,1,Nonfiction,2026-04-26 17:37:07.368763
+67,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,1,Nonfiction,2026-04-26 17:37:07.897296
+68,The Death of Humanity: and the Case for Life,58.11,4,Philosophy,2026-04-26 17:37:08.399675
+69,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,3,Health,2026-04-26 17:37:08.926442
+70,The Art Forger,40.76,3,Add a comment,2026-04-26 17:37:09.430441
+71,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,1,History,2026-04-26 17:37:09.940438
+72,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,5,Spirituality,2026-04-26 17:37:10.467679
+73,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,4,Nonfiction,2026-04-26 17:37:10.989338
+74,Soul Reader,39.58,2,Default,2026-04-26 17:37:11.492892
+75,Security,39.25,2,Horror,2026-04-26 17:37:12.011087
+76,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,3,Fantasy,2026-04-26 17:37:12.539531
+77,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,2,Sequential Art,2026-04-26 17:37:13.045056
+78,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,2,Nonfiction,2026-04-26 17:37:13.548828
+79,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.40,3,Sequential Art,2026-04-26 17:37:14.066544
+80,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,5,Sequential Art,2026-04-26 17:37:14.955011
+81,Princess Between Worlds (Wide-Awake Princess #5),13.34,5,Fantasy,2026-04-26 17:37:15.482375
+82,"Pop Gun War, Volume 1: Gift",18.97,1,Sequential Art,2026-04-26 17:37:15.986596
+83,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,2,History,2026-04-26 17:37:16.495535
+84,Patience,10.16,3,Sequential Art,2026-04-26 17:37:17.032989
+85,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,4,Sequential Art,2026-04-26 17:37:17.551929
+86,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,1,Sequential Art,2026-04-26 17:37:18.055970
+87,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,1,Self Help,2026-04-26 17:37:18.575254
+88,On a Midnight Clear,14.07,3,Add a comment,2026-04-26 17:37:19.079008
+89,Obsidian (Lux #1),14.86,2,Young Adult,2026-04-26 17:37:19.583194
+90,My Paris Kitchen: Recipes and Stories,33.37,2,Food and Drink,2026-04-26 17:37:20.087859
+91,Masks and Shadows,56.40,2,Fantasy,2026-04-26 17:37:20.607648
+92,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,4,Food and Drink,2026-04-26 17:37:21.124223
+93,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,2,Sequential Art,2026-04-26 17:37:21.626886
+94,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,3,Sequential Art,2026-04-26 17:37:22.152659
+95,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,2,Sequential Art,2026-04-26 17:37:22.655035
+96,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,1,Food and Drink,2026-04-26 17:37:23.165289
+97,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.90,2,Add a comment,2026-04-26 17:37:23.693358
+98,Join,35.67,5,Science Fiction,2026-04-26 17:37:24.211850
+99,In the Country We Love: My Family Divided,22.00,4,Nonfiction,2026-04-26 17:37:24.737984
+100,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,5,Science,2026-04-26 17:37:25.646256
+101,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,2,Sequential Art,2026-04-26 17:37:26.153968
+102,I am a Hero Omnibus Volume 1,54.63,3,Sequential Art,2026-04-26 17:37:26.658572
+103,How to Be Miserable: 40 Strategies You Already Use,46.03,1,Self Help,2026-04-26 17:37:27.176390
+104,Her Backup Boyfriend (The Sorensen Family #1),33.97,1,Romance,2026-04-26 17:37:27.694393
+105,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,2,Sequential Art,2026-04-26 17:37:28.197806
+106,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,3,Historical Fiction,2026-04-26 17:37:28.727882
+107,First and First (Five Boroughs #3),15.97,4,Romance,2026-04-26 17:37:29.231008
+108,Fifty Shades Darker (Fifty Shades #2),21.96,1,Romance,2026-04-26 17:37:29.739124
+109,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,2,Nonfiction,2026-04-26 17:37:30.267331
+110,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,2,Religion,2026-04-26 17:37:30.786318
+111,Danganronpa Volume 1,51.99,4,Sequential Art,2026-04-26 17:37:31.320957
+112,Crown of Midnight (Throne of Glass #2),43.29,3,Fantasy,2026-04-26 17:37:31.824591
+113,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,4,Sequential Art,2026-04-26 17:37:32.331156
+114,Camp Midnight,17.08,4,Sequential Art,2026-04-26 17:37:32.837826
+115,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,5,Nonfiction,2026-04-26 17:37:33.340385
+116,Burning,28.81,3,Young Adult,2026-04-26 17:37:33.859808
+117,Bossypants,49.46,2,Default,2026-04-26 17:37:34.376114
+118,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,2,Sequential Art,2026-04-26 17:37:34.878471
+119,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,2,Fantasy,2026-04-26 17:37:35.404803
+120,Algorithms to Live By: The Computer Science of Human Decisions,30.81,1,Nonfiction,2026-04-26 17:37:36.295948
+121,A World of Flavor: Your Gluten Free Passport,42.95,1,Default,2026-04-26 17:37:36.823581
+122,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,5,Default,2026-04-26 17:37:37.342804
+123,A Murder in Time,16.64,1,Mystery,2026-04-26 17:37:37.845078
+124,A Flight of Arrows (The Pathfinders #2),55.53,5,Historical Fiction,2026-04-26 17:37:38.354094
+125,A Fierce and Subtle Poison,28.13,4,Young Adult,2026-04-26 17:37:38.858448
+126,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,1,Fantasy,2026-04-26 17:37:39.364049
+127,(Un)Qualified: How God Uses Broken People to Do Big Things,54.00,5,Christian,2026-04-26 17:37:39.868695
+128,You Are What You Love: The Spiritual Power of Habit,21.87,4,Religion,2026-04-26 17:37:40.388131
+129,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.30,4,Science Fiction,2026-04-26 17:37:40.905809
+130,Tuesday Nights in 1980,21.04,2,Fiction,2026-04-26 17:37:41.409861
+131,Tracing Numbers on a Train,41.60,3,Default,2026-04-26 17:37:41.930815
+132,Throne of Glass (Throne of Glass #1),35.07,3,Fantasy,2026-04-26 17:37:42.457589
+133,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,1,History,2026-04-26 17:37:42.965775
+134,Thirteen Reasons Why,52.72,1,Default,2026-04-26 17:37:43.493717
+135,The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,58.08,4,Childrens,2026-04-26 17:37:44.012501
+136,The Wedding Dress,24.12,1,Romance,2026-04-26 17:37:44.516274
+137,The Vacationers,42.15,4,Fiction,2026-04-26 17:37:45.020548
+138,The Third Wave: An Entrepreneurâs Vision of the Future,12.61,5,Business,2026-04-26 17:37:45.526790
+139,The Stranger,17.44,4,Philosophy,2026-04-26 17:37:46.031549
+140,The Shadow Hero (The Shadow Hero),33.14,1,Sequential Art,2026-04-26 17:37:46.932431
+141,The Secret (The Secret #1),27.37,4,Default,2026-04-26 17:37:47.458540
+142,The Regional Office Is Under Attack!,51.36,5,Fiction,2026-04-26 17:37:47.967739
+143,The Psychopath Test: A Journey Through the Madness Industry,36.00,2,Default,2026-04-26 17:37:48.485117
+144,The Project,10.65,1,Science Fiction,2026-04-26 17:37:49.011894
+145,The Power of Now: A Guide to Spiritual Enlightenment,43.54,2,Nonfiction,2026-04-26 17:37:49.519664
+146,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,2,Nonfiction,2026-04-26 17:37:50.048136
+147,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,5,Food and Drink,2026-04-26 17:37:50.567999
+148,The Murder of Roger Ackroyd (Hercule Poirot #4),44.10,4,Mystery,2026-04-26 17:37:51.073550
+149,The Mistake (Off-Campus #2),43.29,3,New Adult,2026-04-26 17:37:51.577154
+150,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,1,New Adult,2026-04-26 17:37:52.083853
+151,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.60,2,Food and Drink,2026-04-26 17:37:52.613994
+152,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,1,Crime,2026-04-26 17:37:53.126467
+153,The Kite Runner,41.82,4,Default,2026-04-26 17:37:53.645543
+154,The House by the Lake,36.95,1,Historical Fiction,2026-04-26 17:37:54.164534
+155,The Glittering Court (The Glittering Court #1),44.28,1,Fantasy,2026-04-26 17:37:54.666702
+156,The Girl on the Train,55.02,2,Default,2026-04-26 17:37:55.220785
+157,The Genius of Birds,17.24,1,Nonfiction,2026-04-26 17:37:55.749399
+158,The Emerald Mystery,23.15,2,Default,2026-04-26 17:37:56.257093
+159,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,1,Food and Drink,2026-04-26 17:37:56.786200
+160,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.00,3,Default,2026-04-26 17:37:57.692834
+161,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,5,Nonfiction,2026-04-26 17:37:58.196316
+162,The Art of War,33.34,5,Default,2026-04-26 17:37:58.702196
+163,The Argonauts,10.93,2,Autobiography,2026-04-26 17:37:59.230906
+164,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,3,Business,2026-04-26 17:37:59.736264
+165,Suddenly in Love (Lake Haven #1),55.99,2,Romance,2026-04-26 17:38:00.254996
+166,Something More Than This,16.24,4,Romance,2026-04-26 17:38:00.771437
+167,Soft Apocalypse,26.12,2,Science Fiction,2026-04-26 17:38:01.274764
+168,So You've Been Publicly Shamed,12.23,2,Nonfiction,2026-04-26 17:38:01.798298
+169,Shoe Dog: A Memoir by the Creator of NIKE,23.99,2,Business,2026-04-26 17:38:02.325251
+170,"Shobu Samurai, Project Aryoku (#3)",29.06,3,Add a comment,2026-04-26 17:38:02.833841
+171,Secrets and Lace (Fatal Hearts #1),20.27,1,Default,2026-04-26 17:38:03.338332
+172,Scarlett Epstein Hates It Here,43.55,5,Young Adult,2026-04-26 17:38:03.866065
+173,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,1,Default,2026-04-26 17:38:04.367408
+174,Redeeming Love,20.47,5,Christian Fiction,2026-04-26 17:38:04.870868
+175,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,1,Default,2026-04-26 17:38:05.380337
+176,Poems That Make Grown Women Cry,14.19,4,Poetry,2026-04-26 17:38:05.911557
+177,"Nightingale, Sing",38.28,1,Young Adult,2026-04-26 17:38:06.416353
+178,Night Sky with Exit Wounds,41.05,1,Poetry,2026-04-26 17:38:06.934469
+179,Mrs. Houdini,30.25,5,Historical Fiction,2026-04-26 17:38:07.453538
